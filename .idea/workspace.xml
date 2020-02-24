@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bb39808-e9a3-42aa-9512-9cb0aff56414" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1W1VpkfxVc0tyRh4rVD6qOCOU6d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb39808-e9a3-42aa-9512-9cb0aff56414" name="Default Changelist" comment="" />
+      <created>1578317272525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578317272525</updated>
+      <workItem from="1578317273750" duration="400000" />
+      <workItem from="1578317962125" duration="10402000" />
+      <workItem from="1578392386565" duration="18605000" />
+      <workItem from="1578496229707" duration="3197000" />
+      <workItem from="1578575775151" duration="1214000" />
+      <workItem from="1578745595383" duration="3724000" />
+      <workItem from="1578919801564" duration="2709000" />
+      <workItem from="1579088886474" duration="1858000" />
+      <workItem from="1579105334696" duration="614000" />
+      <workItem from="1580316633450" duration="1843000" />
+      <workItem from="1580388001897" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="31" key="#Deployment" timestamp="1578754140003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="230" y="31" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1578754140003" />
+    <state x="362" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578404522409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578404522409" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1578754051819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1578754051819" />
+    <state x="550" y="167" key="FileChooserDialogImpl" timestamp="1578319288048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578319288048" />
+    <state x="533" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1580388002117">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="264" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580388002117" />
+    <state x="606" y="306" key="publish.login" timestamp="1578920222028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="306" key="publish.login/0.0.1536.824@0.0.1536.824" timestamp="1578920222028" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1578404525070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1578404525070" />
+  </component>
+</project>
